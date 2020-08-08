@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, curious, autodidact, problem-solver and keen-eye-to-detail .NET developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mburakeker" alt="mburakeker" /> </p>
 
-- 🔭 I’m currently working at **Model Business Solutions**
+- 🏢 I’m currently working at **Model Business Solutions**
 
 - 💬 Ask me about **.NET**
 
