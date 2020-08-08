@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **.NET**
 
-- 📫 How to reach me **mehmetburakeker@gmail.com**
+- 📫 How to reach me ==> **mehmetburakeker@gmail.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>
 
