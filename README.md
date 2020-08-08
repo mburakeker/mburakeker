@@ -8,7 +8,7 @@
 
 - 📫 How to reach me ==> **mehmetburakeker@gmail.com**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>-->
 
 <p align="center">
 <a href="https://codepen.io/cuongjorkee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="cuongjorkee" height="20" width="20" /></a>
