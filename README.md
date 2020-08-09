@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Eker</h1>
 <h3 align="center">A passionate, curious, autodidact, problem-solver and keen-eye-to-detail .NET developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mburakeker" alt="mburakeker" /> </p>
+
+![counter](https://en85d1e3d8hs7xq.m.pipedream.net)
 
 - 🏢 I’m currently working at **Model Business Solutions**
 
