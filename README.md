@@ -5,7 +5,7 @@
 
 - 🏢 I’m currently working at **Model Business Solutions**
 
-- 💬 Ask me about **.NET, Python and React**
+- 💬 Ask me about **.NET**
 
 - 📫 Reach me through **mehmetburakeker@gmail.com or my linkedin below**
 
