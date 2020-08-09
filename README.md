@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Burak Eker</h1>
+<h1 align="center">Hey there! Thanks for stopping by this is Burak Eker</h1>
 <h3 align="center">A passionate, curious, autodidact, problem-solver and keen-eye-to-detail .NET developer.</h3>
 
 ![counter](https://en85d1e3d8hs7xq.m.pipedream.net)
 
 - 🏢 I’m currently working at **Model Business Solutions**
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **.NET, Python and React**
 
-- 📫 Reach me through **mehmetburakeker@gmail.com**
+- 📫 Reach me through **mehmetburakeker@gmail.com or my linkedin below**
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>-->
 
