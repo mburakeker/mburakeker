@@ -12,7 +12,6 @@
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>-->
 
 <p align="center">
-<a href="https://dev.to/mburakeker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/mburakeker" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/mburakeker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/mburakeker/" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/5523378/burak-eker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="/users/5523378/burak-eker" height="20" width="20" /></a>
 <a href="https://www.npmjs.com/~mburakeker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="mburakeker" height="20" width="20" /></a>
