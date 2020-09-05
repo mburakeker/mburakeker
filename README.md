@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! Thanks for stopping by this is Burak Eker</h1>
 <h3 align="center">A passionate, curious, autodidact, problem-solver and keen-eye-to-detail .NET developer.</h3>
 
-![counter](https://en85d1e3d8hs7xq.m.pipedream.net)
+![](https://en85d1e3d8hs7xq.m.pipedream.net)
 
 - 🏢 I’m currently working at **Model Business Solutions**
 
