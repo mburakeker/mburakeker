@@ -3,7 +3,7 @@
 
 ![](https://en85d1e3d8hs7xq.m.pipedream.net)
 
-- 📫 Reach me through **mehmetburakeker@gmail.com or my linkedin below**
+- 📫 Reach me through **buraakeker@gmail.com or my linkedin below**
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mburakeker&show_icons=true" alt="mburakeker" /> </p>-->
 
