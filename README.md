@@ -1,4 +1,5 @@
-<h3 align="center">a passionate, curious, autodidact, problem-solver and keen-eye-to-detail Full-Stack .NET developer.</h3>
+<h3 align="center">A creative, curious, and problem-solver Full-Stack developer</h3>
+<h3 align="center">I am also on <a href="https://gitlab.com/burak.eker">Gitlab </a></h3>
 
 ![](https://en85d1e3d8hs7xq.m.pipedream.net)
 
